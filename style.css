@@ -9,3 +9,7 @@ body{
 .banner-column{
     background-color: dimgrey;
 }
+
+.navbar-container{
+    background-color: black;
+}
