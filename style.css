@@ -12,8 +12,24 @@ body{
 
 .navbar-container{
     background-color: black;
+    font-size: 20px;
 }
 
 .about-container{
     background-color:rgba(12, 155, 95, 0.733);
+}
+
+.education-container{
+    background-color: #EEEEEE;
+}
+
+.redtype{
+    color: #FB857F;
+}
+
+.circle{
+    background-color: #FB857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
 }
