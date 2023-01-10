@@ -13,6 +13,9 @@ body{
 .navbar-container{
     background-color: black;
     font-size: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 
 .about-container{
@@ -40,4 +43,8 @@ body{
 
 .portfolio-container{
     background-color: #37515a;
+}
+
+.contact-container{
+    background-color: #6F7982;
 }
