@@ -48,3 +48,15 @@ body{
 .contact-container{
     background-color: #6F7982;
 }
+
+.inner-form{
+    background-color: #45484b;
+}
+
+.btn-bg{
+    background-color: #FB857F;
+}
+
+.btn-bg:hover{
+    background-color: #3a3934!important;
+}
