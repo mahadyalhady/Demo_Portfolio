@@ -1,16 +1,16 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.banner-container{
-    background-color: rgba(70, 66, 70, 0.667) ;
+.banner-container {
+    background-color: rgba(70, 66, 70, 0.667);
 }
 
-.banner-column{
+.banner-column {
     background-color: dimgrey;
 }
 
-.navbar-container{
+.navbar-container {
     background-color: black;
     font-size: 20px;
     position: sticky;
@@ -18,45 +18,65 @@ body{
     z-index: 1;
 }
 
-.about-container{
-    background-color:rgba(12, 155, 95, 0.733);
+.about-container {
+    background-color: rgba(12, 155, 95, 0.733);
 }
 
-.education-container{
+.education-container {
     background-color: #EEEEEE;
 }
 
-.redtype{
+.redtype {
     color: #FB857F;
 }
 
-.circle{
+.circle {
     background-color: #FB857F;
     width: 150px;
     height: 150px;
     border-radius: 50%;
 }
 
-.project-container{
+.project-container {
     background-color: #70D3FF;
 }
 
-.portfolio-container{
+.portfolio-container {
     background-color: #37515a;
 }
 
-.contact-container{
+.contact-container {
     background-color: #6F7982;
 }
 
-.inner-form{
+.inner-form {
     background-color: #45484b;
 }
 
-.btn-bg{
+.btn-bg {
     background-color: #FB857F;
+
 }
 
-.btn-bg:hover{
-    background-color: #3a3934!important;
+.btn-bg:hover {
+    background-color: #3a3934 !important;
+}
+
+.footer {
+    background-color: #5CA8F7;
+}
+
+.circle-icon{
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+    color: #5CA8F7;
+}
+
+.circle-icon:hover{
+    background-color: #252a2c;
 }
